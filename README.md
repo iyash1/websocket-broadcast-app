@@ -12,8 +12,8 @@ A real-time WebSocket broadcasting application for seamless multi-client communi
 
 ### 1. Clone & Navigate
 ```bash
-git clone <GITHUB_REPO_URL>
-cd <CLONED_PATH>
+git clone https://github.com/iyash1/websocket-broadcast-app.git
+cd websocket-broadcast-app
 ```
 
 ### 2. Create Conda Environment
